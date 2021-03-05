@@ -1,4 +1,3 @@
-import { GetUser } from 'src/auth/get-user-decorator';
 import { User } from 'src/auth/user.entity';
 import { EntityRepository, Repository } from 'typeorm';
 import { CreateTaskDto } from './dto/create-task.dto';
